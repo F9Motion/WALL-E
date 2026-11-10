@@ -24,6 +24,7 @@ When you push buttons in remote controller a special diode gives to **ESP32** si
 4. click to here to flash!
 <img width="357" height="258" alt="Снимок экрана 2026-11-10 221446" src="https://github.com/user-attachments/assets/65ae6eae-4187-4c8f-8e9c-ed5f2edb43f1" />
 # Bill Of Materials
+
 |Name         |Price |Link                     |
 |-------------|------|-------------------------|
 |Motors x2    |$21.76|https://ali.click/y9urq1u|
@@ -39,6 +40,7 @@ When you push buttons in remote controller a special diode gives to **ESP32** si
 |WALL-E step  |$14.09|felament price only      |
 |sheels.step  |$3.11 |felament price only      |
 |TOTAL        |$70.62|                         |
+
 # Credits
 CAD: Blender
 PCB: KiCad
